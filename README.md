@@ -1,10 +1,68 @@
-- 👋 Hi, I’m @Ekundee
-- 👀 I’m interested in Web and App development learning and jobs, problem solving, open source program etc... 
-- 🌱 I’m currently learning C# for App and game development, python for web development, Algorithm/problem solving in c++, javascript and python...
-- 💞️ I’m looking to collaborate on various web development projects(websites) where i major in backend development using javascript and PHP...
-- 📫 How to reach me telegram using https://t.me/deekundee and Gmail-isaiahekundayo17@gmail.com ...
+# 👋 Hi, I'm Isaiah Ekundayo
 
-<!---
-Ekundee/Ekundee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Graduate Student | Software Engineer | AI Researcher in Training**
+
+I'm a passionate Computer Science graduate student currently based in Ohio, with a deep interest in **Artificial Intelligence**, **Machine Learning**, **Data Integration**, and **Software Ecosystems**. I actively explore how technology can solve real-world problems.
+---
+
+## 🧠 What I Do
+
+- 🔬 **AI & ML Research**
+  - Exploring **sentiment analysis** for mental health monitoring and e-commerce feedback systems.
+  - Comparative analysis of **lexicon-based**, **SVM**, and **hybrid sentiment models**.
+  - Investigating **age-related sentiment patterns** in user-generated movie reviews.
+
+- 🌐 **Full-Stack & Backend Engineering**
+  - Building scalable, modular APIs with **NestJS** and **PostgreSQL**.
+  - Working on **multi-tenant eCommerce platforms** (Compshere) with separated frontends:
+    - **Storefront** for shoppers.
+    - **Admin Portal** for store owners.
+    - **Marketing Website** for pricing and discovery.
+
+- 📊 **Data Visualization & Graph Analysis**
+  - Leveraging **Gephi**, **D3.js**, and **Vega-Lite** for graph-based insights.
+  - Analyzed BGP AS routing topology using centrality metrics like PageRank, Eigenvector, and Katz.
+
+- 🤖 **AI-Powered Visualization Tools**
+  - Developing a **TensorFlow.js + Next.js** tool that recommends the best visualization for any dataset using Vega-Lite.
+
+- 📡 **IoT & Robotics**
+  - Currently experimenting with **Raspberry Pi 5** and **PiCar-X** to create a room mapping and visualization tool using ultrasonic sensors and OpenCV.
+
+---
+
+## 📚 Research Topics
+
+- `Investigating-the-Impact-of-Age-and-Gender-on-Sentiment-Analysis-in-Movie-Reviews`(https://github.com/Ekundee/AIR-RES-2025_Investigating-the-Impact-of-Age-and-Gender-on-Sentiment-Analysis-in-Movie-Reviews)
+- `Dependency Network Analysis in Software Ecosystems`
+- `Data Integration across E-learning Platforms (Coursera, Udemy, YouTube)`
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**: TypeScript, JavaScript, Python, SQL, Bash  
+**Frameworks**: NestJS, React, Next.js, Vite, Express  
+**Data & ML**: Scikit-learn, TensorFlow.js, Pandas, Gephi  
+**Tools**: Docker, Git, Swagger, Postman, Figma, GraphQL  
+**Databases**: PostgreSQL, MongoDB, Redis  
+**Cloud & DevOps**: VPS Hosting, Nginx, CI/CD (GitHub Actions)
+
+---
+
+## 📈 Current Projects
+
+- 🚀 **Compshere** – Multi-tenant eCommerce backend (analytics, subscriptions, logs).
+- 📊 **AI Visualization Recommender** – Web-based tool to suggest visualizations dynamically.
+- 🤖 **Room Mapper** – Robotic room scanning with ultrasonic + camera sensors.
+- 💬 **SentiMental** – A sentiment-based early mental illness detection system.
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 isaiah.ekundayo@email.com, ioe2@uakron.edu
+- 🌐 [Portfolio / Website](https://your-website.com)
+
+---
