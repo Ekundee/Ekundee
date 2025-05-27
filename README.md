@@ -61,8 +61,8 @@ I'm a passionate Computer Science graduate student currently based in Ohio, with
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/isaiah-ekundayo/)
 - 📧 isaiah.ekundayo@email.com, ioe2@uakron.edu
-- 🌐 [Portfolio / Website](https://your-website.com)
+- 🌐 [Portfolio / Website]([https://your-website.com](https://www.isaiahekundayo.com/)
 
 ---
