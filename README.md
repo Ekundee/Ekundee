@@ -39,14 +39,14 @@ I'm a passionate Computer Science graduate student currently based in Ohio, with
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Not limited to...)
 
-**Languages**: TypeScript, JavaScript, Python, SQL, Bash  
+**Languages**: TypeScript, JavaScript, Python, SQL, Bash, C#  
 **Frameworks**: NestJS, React, Next.js, Vite, Express  
 **Data & ML**: Scikit-learn, TensorFlow.js, Pandas, Gephi  
 **Tools**: Docker, Git, Swagger, Postman, Figma, GraphQL  
 **Databases**: PostgreSQL, MongoDB, Redis  
-**Cloud & DevOps**: VPS Hosting, Nginx, CI/CD (GitHub Actions)
+**Cloud & DevOps**: AWS, Azure, VPS Hosting, Nginx, CI/CD (GitHub Actions)
 
 ---
 
