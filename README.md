@@ -25,7 +25,7 @@ Software Engineer with 2+ years of experience building AI-powered, scalable web,
 ---
 ## 📚 Research Topics
 
-- `Investigating-the-Impact-of-Age-and-Gender-on-Sentiment-Analysis-in-Movie-Reviews`(https://github.com/Ekundee/AIR-RES-2025_Investigating-the-Impact-of-Age-and-Gender-on-Sentiment-Analysis-in-Movie-Reviews)
+- `Investigating-the-Impact-of-Age-and-Gender-on-Sentiment-Analysis-in-Movie-Reviews`(https://link.springer.com/chapter/10.1007/978-3-032-13056-3_34)
 - `Dependency Network Analysis in Software Ecosystems`
 - `Data Integration across E-learning Platforms (Coursera, Udemy, YouTube)`
 
