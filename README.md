@@ -5,6 +5,14 @@
 Software Engineer with 2+ years of experience building AI-powered, scalable web, mobile, and cloud applications. Proficient in full-stack development, system optimization, and collaboration.
 ----
 
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/isaiah-ekundayo/)
+- 📧 isaiahekundayo17@gmail.com, ioe2@uakron.edu
+- 🌐 [Portfolio / Website](https://www.isaiahekundayo.com/)
+
+---
+
 ## 🛠 Tech Stack (Not limited to...)
 
 **Languages**: TypeScript, JavaScript, Python, SQL, Bash, C#  
@@ -31,10 +39,3 @@ Software Engineer with 2+ years of experience building AI-powered, scalable web,
 
 ---
 
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/isaiah-ekundayo/)
-- 📧 isaiahekundayo17@gmail.com, ioe2@uakron.edu
-- 🌐 [Portfolio / Website](https://www.isaiahekundayo.com/)
-
----
