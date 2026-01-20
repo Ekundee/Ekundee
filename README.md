@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Isaiah Ekundayo
 
-🎓 **Graduate Student | Software Engineer | AI Researcher in Training**
+🎓 **Software Engineer | AI Engineer Researcher**
 
-I'm a passionate Computer Science graduate student currently based in Ohio, with a deep interest in **Artificial Intelligence**, **Machine Learning**, **Data Integration**, and **Software Ecosystems**. I actively explore how technology can solve real-world problems.
+Software Engineer with 2+ years of experience building AI-powered, scalable web, mobile, and cloud applications. Proficient in full-stack development, system optimization, and collaboration.
 ----
 
 ## 🛠 Tech Stack (Not limited to...)
