@@ -34,7 +34,7 @@ Software Engineer with 2+ years of experience building AI-powered, scalable web,
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/isaiah-ekundayo/)
-- 📧 isaiah.ekundayo@email.com, ioe2@uakron.edu
+- 📧 isaiahekundayo17@email.com, ioe2@uakron.edu
 - 🌐 [Portfolio / Website]([https://your-website.com](https://www.isaiahekundayo.com/)
 
 ---
